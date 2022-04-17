@@ -1,2 +1,2 @@
-# Lista-01-Java
-Uma lista de exercício em Java 
+# Lista 01 - Java
+>  *Uma lista de exercicios desenvolvido em Java Orientado a Objeto.*
