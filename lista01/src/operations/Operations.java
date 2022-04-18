@@ -31,7 +31,7 @@ public class Operations {
             for(int cont = 0; cont < amount; cont++){
                 aux = list.get(cont);
                 soma = soma * aux;
-                resultado = Math.sqrt(soma);
+                resultado = soma / amount;
             }
             return resultado;
         }
