@@ -56,7 +56,7 @@ Abra o NetBeans, ou qualquer outro programa compativél, baixe os arquivos do [G
 
 <hr>
 
-h3 aling="right" <a name="autor"></a>
+<h3> aling="right" <a name="autor"></a>
    Autor
 </h3>
 
