@@ -31,8 +31,9 @@ public class Operations {
             for(int cont = 0; cont < amount; cont++){
                 aux = list.get(cont);
                 soma = soma * aux;
-                resultado = soma / amount;
             }
+	    double exponente = 1.0 / amount;// estou invertendo a raiz e divedindo pela quantidade enésima
+            resultado = Math.pow(soma, exponente);
             return resultado;
         }
         
