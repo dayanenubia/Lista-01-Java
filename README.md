@@ -32,8 +32,8 @@
      Features Ex 2
 </h3>
 
-- [ ] Recebe via teclado valores inteiros para preencher as matrizes
-- [ ] Imprime as diagonais principal e secundária de ambas
+- [x] Recebe via teclado valores inteiros para preencher as matrizes
+- [x] Imprime as diagonais principal e secundária de ambas
 - [ ] Imprime a matriz transposta de ambas
 - [ ] Se possível, realiza a soma das matrizes
 - [ ] Se possível, realiza a multiplicação das matrizes
